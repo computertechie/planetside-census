@@ -1,0 +1,25 @@
+{
+  "name": "planetside-census",
+  "version": "1.0.0",
+  "description": "Interfaces for working with the PlanetSide 2 Census API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computertechie/planetside-census.git"
+  },
+  "keywords": [
+    "PlanetSide"
+  ],
+  "author": "Ean McLaughlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/computertechie/planetside-census/issues"
+  },
+  "homepage": "https://github.com/computertechie/planetside-census#readme",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
