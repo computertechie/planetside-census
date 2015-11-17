@@ -1,0 +1,5 @@
+{
+  "endpoint": "http://census.daybreakgames.com",
+  "game": "ps2",
+  "service_id": "s:example"
+}
