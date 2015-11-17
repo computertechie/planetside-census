@@ -2,10 +2,7 @@
   "name": "planetside-census",
   "version": "1.0.0",
   "description": "Interfaces for working with the PlanetSide 2 Census API",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "ps2census.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/computertechie/planetside-census.git"
@@ -20,6 +17,8 @@
   },
   "homepage": "https://github.com/computertechie/planetside-census#readme",
   "dependencies": {
-    "jquery": "^2.1.4"
+    "config": "^1.16.0",
+    "jquery": "^2.1.4",
+    "request": "^2.65.0"
   }
 }
